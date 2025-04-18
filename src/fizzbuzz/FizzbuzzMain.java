@@ -1,6 +1,6 @@
 package fizzbuzz;
 
-public class Main {
+public class FizzbuzzMain {
 
     public static void main(String[] args) {
     }
